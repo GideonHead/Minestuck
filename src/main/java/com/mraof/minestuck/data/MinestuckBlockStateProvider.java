@@ -41,9 +41,15 @@ public class MinestuckBlockStateProvider extends BlockStateProvider
 		simpleBlockWithItem(MSBlocks.CHISELED_CHHURPI_BRICKS);
 		simpleBlockWithItem(MSBlocks.CRACKED_CHHURPI_BRICKS);
 		simpleBlockWithItem(MSBlocks.CHEESY_CHHURPI_BRICKS);
+		simpleBlockWithItem(MSBlocks.RIND);
+		simpleBlockWithItem(MSBlocks.RIND_BRICKS);
+		simpleBlockWithItem(MSBlocks.CHISELED_RIND_BRICKS);
+		simpleBlockWithItem(MSBlocks.CRACKED_RIND_BRICKS);
+		simpleBlockWithItem(MSBlocks.CHEESY_RIND_BRICKS);
 		simpleBlockWithItem(MSBlocks.CHEESE_PATH);
 		
 		simpleAxisBlockWithItem(MSBlocks.CHHURPI_PILLAR);
+		simpleAxisBlockWithItem(MSBlocks.RIND_PILLAR);
 		
 		simpleStairsWithItem(MSBlocks.SWISS_CHEESE_STAIRS, MSBlocks.SWISS_CHEESE);
 		simpleStairsWithItem(MSBlocks.SMOOTH_SWISS_CHEESE_STAIRS, MSBlocks.SMOOTH_SWISS_CHEESE);
@@ -54,6 +60,11 @@ public class MinestuckBlockStateProvider extends BlockStateProvider
 		simpleStairsWithItem(MSBlocks.CHISELED_CHHURPI_BRICK_STAIRS, MSBlocks.CHISELED_CHHURPI_BRICKS);
 		simpleStairsWithItem(MSBlocks.CRACKED_CHHURPI_BRICK_STAIRS, MSBlocks.CRACKED_CHHURPI_BRICKS);
 		simpleStairsWithItem(MSBlocks.CHEESY_CHHURPI_BRICK_STAIRS, MSBlocks.CHEESY_CHHURPI_BRICKS);
+		simpleStairsWithItem(MSBlocks.RIND_STAIRS, MSBlocks.RIND);
+		simpleStairsWithItem(MSBlocks.RIND_BRICK_STAIRS, MSBlocks.RIND_BRICKS);
+		simpleStairsWithItem(MSBlocks.CHISELED_RIND_BRICK_STAIRS, MSBlocks.CHISELED_RIND_BRICKS);
+		simpleStairsWithItem(MSBlocks.CRACKED_RIND_BRICK_STAIRS, MSBlocks.CRACKED_RIND_BRICKS);
+		simpleStairsWithItem(MSBlocks.CHEESY_RIND_BRICK_STAIRS, MSBlocks.CHEESY_RIND_BRICKS);
 		
 		simpleSlabWithItem(MSBlocks.SWISS_CHEESE_SLAB, MSBlocks.SWISS_CHEESE);
 		simpleSlabWithItem(MSBlocks.SMOOTH_SWISS_CHEESE_SLAB, MSBlocks.SMOOTH_SWISS_CHEESE);
@@ -64,12 +75,22 @@ public class MinestuckBlockStateProvider extends BlockStateProvider
 		simpleSlabWithItem(MSBlocks.CHISELED_CHHURPI_BRICK_SLAB, MSBlocks.CHISELED_CHHURPI_BRICKS);
 		simpleSlabWithItem(MSBlocks.CRACKED_CHHURPI_BRICK_SLAB, MSBlocks.CRACKED_CHHURPI_BRICKS);
 		simpleSlabWithItem(MSBlocks.CHEESY_CHHURPI_BRICK_SLAB, MSBlocks.CHEESY_CHHURPI_BRICKS);
+		simpleSlabWithItem(MSBlocks.RIND_SLAB, MSBlocks.RIND);
+		simpleSlabWithItem(MSBlocks.RIND_BRICK_SLAB, MSBlocks.RIND_BRICKS);
+		simpleSlabWithItem(MSBlocks.CHISELED_RIND_BRICK_SLAB, MSBlocks.CHISELED_RIND_BRICKS);
+		simpleSlabWithItem(MSBlocks.CRACKED_RIND_BRICK_SLAB, MSBlocks.CRACKED_RIND_BRICKS);
+		simpleSlabWithItem(MSBlocks.CHEESY_RIND_BRICK_SLAB, MSBlocks.CHEESY_RIND_BRICKS);
 		
 		simpleWallBlock(MSBlocks.CHHURPI_WALL, MSBlocks.CHHURPI);
 		simpleWallBlock(MSBlocks.CHHURPI_BRICK_WALL, MSBlocks.CHHURPI_BRICKS);
 		simpleWallBlock(MSBlocks.CHISELED_CHHURPI_BRICK_WALL, MSBlocks.CHISELED_CHHURPI_BRICKS);
 		simpleWallBlock(MSBlocks.CRACKED_CHHURPI_BRICK_WALL, MSBlocks.CRACKED_CHHURPI_BRICKS);
 		simpleWallBlock(MSBlocks.CHEESY_CHHURPI_BRICK_WALL, MSBlocks.CHEESY_CHHURPI_BRICKS);
+		simpleWallBlock(MSBlocks.RIND_WALL, MSBlocks.RIND);
+		simpleWallBlock(MSBlocks.RIND_BRICK_WALL, MSBlocks.RIND_BRICKS);
+		simpleWallBlock(MSBlocks.CHISELED_RIND_BRICK_WALL, MSBlocks.CHISELED_RIND_BRICKS);
+		simpleWallBlock(MSBlocks.CRACKED_RIND_BRICK_WALL, MSBlocks.CRACKED_RIND_BRICKS);
+		simpleWallBlock(MSBlocks.CHEESY_RIND_BRICK_WALL, MSBlocks.CHEESY_RIND_BRICKS);
 	}
 	
 	private void simpleBlockWithItem(RegistryObject<Block> block)

@@ -4,6 +4,11 @@
     "minestuck:chhurpi_brick_wall",
     "minestuck:chiseled_chhurpi_brick_wall",
     "minestuck:cracked_chhurpi_brick_wall",
-    "minestuck:cheesy_chhurpi_brick_wall"
+    "minestuck:cheesy_chhurpi_brick_wall",
+    "minestuck:rind_wall",
+    "minestuck:rind_brick_wall",
+    "minestuck:chiseled_rind_brick_wall",
+    "minestuck:cracked_rind_brick_wall",
+    "minestuck:cheesy_rind_brick_wall"
   ]
 }

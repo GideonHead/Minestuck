@@ -231,6 +231,12 @@ public final class MSBlockLootTables extends BlockLootSubProvider
 		dropSelf(CRACKED_CHHURPI_BRICKS.get());
 		dropSelf(CHEESY_CHHURPI_BRICKS.get());
 		dropSelf(CHHURPI_PILLAR.get());
+		dropSelf(RIND.get());
+		dropSelf(RIND_BRICKS.get());
+		dropSelf(CHISELED_RIND_BRICKS.get());
+		dropSelf(CRACKED_RIND_BRICKS.get());
+		dropSelf(CHEESY_RIND_BRICKS.get());
+		dropSelf(RIND_PILLAR.get());
 		dropSelf(CHEESE_PATH.get());
 		
 		dropSelf(GLOWING_LOG.get());
@@ -425,6 +431,11 @@ public final class MSBlockLootTables extends BlockLootSubProvider
 		dropSelf(CHISELED_CHHURPI_BRICK_STAIRS.get());
 		dropSelf(CRACKED_CHHURPI_BRICK_STAIRS.get());
 		dropSelf(CHEESY_CHHURPI_BRICK_STAIRS.get());
+		dropSelf(RIND_STAIRS.get());
+		dropSelf(RIND_BRICK_STAIRS.get());
+		dropSelf(CHISELED_RIND_BRICK_STAIRS.get());
+		dropSelf(CRACKED_RIND_BRICK_STAIRS.get());
+		dropSelf(CHEESY_RIND_BRICK_STAIRS.get());
 		dropSelf(BLACK_CHESS_BRICK_SLAB.get());
 		dropSelf(DARK_GRAY_CHESS_BRICK_SLAB.get());
 		dropSelf(LIGHT_GRAY_CHESS_BRICK_SLAB.get());
@@ -461,11 +472,21 @@ public final class MSBlockLootTables extends BlockLootSubProvider
 		dropSelf(CHISELED_CHHURPI_BRICK_SLAB.get());
 		dropSelf(CRACKED_CHHURPI_BRICK_SLAB.get());
 		dropSelf(CHEESY_CHHURPI_BRICK_SLAB.get());
+		dropSelf(RIND_SLAB.get());
+		dropSelf(RIND_BRICK_SLAB.get());
+		dropSelf(CHISELED_RIND_BRICK_SLAB.get());
+		dropSelf(CRACKED_RIND_BRICK_SLAB.get());
+		dropSelf(CHEESY_RIND_BRICK_SLAB.get());
 		dropSelf(CHHURPI_WALL.get());
 		dropSelf(CHHURPI_BRICK_WALL.get());
 		dropSelf(CHISELED_CHHURPI_BRICK_WALL.get());
 		dropSelf(CRACKED_CHHURPI_BRICK_WALL.get());
 		dropSelf(CHEESY_CHHURPI_BRICK_WALL.get());
+		dropSelf(RIND_WALL.get());
+		dropSelf(RIND_BRICK_WALL.get());
+		dropSelf(CHISELED_RIND_BRICK_WALL.get());
+		dropSelf(CRACKED_RIND_BRICK_WALL.get());
+		dropSelf(CHEESY_RIND_BRICK_WALL.get());
 		
 		dropSelf(TRAJECTORY_BLOCK.get());
 		dropSelf(STAT_STORER.get());

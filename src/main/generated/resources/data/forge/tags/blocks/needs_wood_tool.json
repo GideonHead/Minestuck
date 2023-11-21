@@ -216,6 +216,27 @@
     "minestuck:cheesy_chhurpi_brick_wall",
     "minestuck:cheesy_chhurpi_brick_stairs",
     "minestuck:cheesy_chhurpi_brick_slab",
-    "minestuck:chhurpi_pillar"
+    "minestuck:chhurpi_pillar",
+    "minestuck:rind",
+    "minestuck:rind_stairs",
+    "minestuck:rind_slab",
+    "minestuck:rind_wall",
+    "minestuck:rind_bricks",
+    "minestuck:rind_brick_wall",
+    "minestuck:rind_brick_stairs",
+    "minestuck:rind_brick_slab",
+    "minestuck:chiseled_rind_bricks",
+    "minestuck:chiseled_rind_brick_wall",
+    "minestuck:chiseled_rind_brick_stairs",
+    "minestuck:chiseled_rind_brick_slab",
+    "minestuck:cracked_rind_bricks",
+    "minestuck:cracked_rind_brick_wall",
+    "minestuck:cracked_rind_brick_stairs",
+    "minestuck:cracked_rind_brick_slab",
+    "minestuck:cheesy_rind_bricks",
+    "minestuck:cheesy_rind_brick_wall",
+    "minestuck:cheesy_rind_brick_stairs",
+    "minestuck:cheesy_rind_brick_slab",
+    "minestuck:rind_pillar"
   ]
 }

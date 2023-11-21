@@ -43,6 +43,7 @@ public class LandTypes
 	public static final RegistryObject<TerrainLandType> FLORA = TERRAIN_REGISTER.register("flora", FloraLandType::new);
 	public static final RegistryObject<TerrainLandType> END = TERRAIN_REGISTER.register("end", EndLandType::new);
 	public static final RegistryObject<TerrainLandType> RAIN = TERRAIN_REGISTER.register("rain", RainLandType::new);
+	public static final RegistryObject<TerrainLandType> CHEESE = TERRAIN_REGISTER.register("cheese", CheeseLandType::new);
 	
 	public static final RegistryObject<TitleLandType> TITLE_NULL = TITLE_REGISTER.register("null", NullTitleLandType::new);
 	public static final RegistryObject<TitleLandType> FROGS = TITLE_REGISTER.register("frogs", FrogsLandType::new);

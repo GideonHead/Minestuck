@@ -241,6 +241,12 @@ public class MinestuckEnUsLanguageProvider extends MinestuckLanguageProvider
 		addBlock(MSBlocks.CRACKED_CHHURPI_BRICKS, "Cracked Chhurpi Bricks");
 		addBlock(MSBlocks.CHEESY_CHHURPI_BRICKS, "Cheesy Chhurpi Bricks");
 		addBlock(MSBlocks.CHHURPI_PILLAR, "Chhurpi Pillar");
+		addBlock(MSBlocks.RIND, "Rind");
+		addBlock(MSBlocks.RIND_BRICKS, "Rind Bricks");
+		addBlock(MSBlocks.CHISELED_RIND_BRICKS, "Chiseled Rind Bricks");
+		addBlock(MSBlocks.CRACKED_RIND_BRICKS, "Cracked Rind Bricks");
+		addBlock(MSBlocks.CHEESY_RIND_BRICKS, "Cheesy Rind Bricks");
+		addBlock(MSBlocks.RIND_PILLAR, "Rind Pillar");
 		addBlock(MSBlocks.CHEESE_PATH, "Cheese Path");
 		addBlock(MSBlocks.GLOWING_LOG, "Glowing Log");
 		addBlock(MSBlocks.FROST_LOG, "Frost Log");
@@ -435,6 +441,11 @@ public class MinestuckEnUsLanguageProvider extends MinestuckLanguageProvider
 		addBlock(MSBlocks.CHISELED_CHHURPI_BRICK_STAIRS, "Chiseled Chhurpi Brick Stairs");
 		addBlock(MSBlocks.CHHURPI_BRICK_STAIRS, "Chhurpi Brick Stairs");
 		addBlock(MSBlocks.CHHURPI_STAIRS, "Chhurpi Stairs");
+		addBlock(MSBlocks.CHEESY_RIND_BRICK_STAIRS, "Cheesy Rind Brick Stairs");
+		addBlock(MSBlocks.CRACKED_RIND_BRICK_STAIRS, "Cracked Rind Brick Stairs");
+		addBlock(MSBlocks.CHISELED_RIND_BRICK_STAIRS, "Chiseled Rind Brick Stairs");
+		addBlock(MSBlocks.RIND_BRICK_STAIRS, "Rind Brick Stairs");
+		addBlock(MSBlocks.RIND_STAIRS, "Rind Stairs");
 		addBlock(MSBlocks.SMOOTH_AMERICAN_CHEESE_STAIRS, "Smooth American Cheese Stairs");
 		addBlock(MSBlocks.AMERICAN_CHEESE_STAIRS, "American Cheese Stairs");
 		addBlock(MSBlocks.SMOOTH_SWISS_CHEESE_STAIRS, "Smooth Swiss Cheese Stairs");
@@ -473,6 +484,11 @@ public class MinestuckEnUsLanguageProvider extends MinestuckLanguageProvider
 		addBlock(MSBlocks.CHISELED_CHHURPI_BRICK_SLAB, "Chiseled Chhurpi Brick Slab");
 		addBlock(MSBlocks.CHHURPI_BRICK_SLAB, "Chhurpi Brick Slab");
 		addBlock(MSBlocks.CHHURPI_SLAB, "Chhurpi Slab");
+		addBlock(MSBlocks.CHEESY_RIND_BRICK_SLAB, "Cheesy Rind Brick Slab");
+		addBlock(MSBlocks.CRACKED_RIND_BRICK_SLAB, "Cracked Rind Brick Slab");
+		addBlock(MSBlocks.CHISELED_RIND_BRICK_SLAB, "Chiseled Rind Brick Slab");
+		addBlock(MSBlocks.RIND_BRICK_SLAB, "Rind Brick Slab");
+		addBlock(MSBlocks.RIND_SLAB, "Rind Slab");
 		addBlock(MSBlocks.SMOOTH_AMERICAN_CHEESE_SLAB, "Smooth American Cheese Slab");
 		addBlock(MSBlocks.SWISS_CHEESE_SLAB, "Swiss Cheese Slab");
 		addBlock(MSBlocks.AMERICAN_CHEESE_SLAB, "American Cheese Slab");
@@ -482,6 +498,11 @@ public class MinestuckEnUsLanguageProvider extends MinestuckLanguageProvider
 		addBlock(MSBlocks.CHISELED_CHHURPI_BRICK_WALL, "Chiseled Chhurpi Brick Wall");
 		addBlock(MSBlocks.CHHURPI_BRICK_WALL, "Chhurpi Brick Wall");
 		addBlock(MSBlocks.CHHURPI_WALL, "Chhurpi Wall");
+		addBlock(MSBlocks.CHEESY_RIND_BRICK_WALL, "Cheesy Rind Brick Wall");
+		addBlock(MSBlocks.CRACKED_RIND_BRICK_WALL, "Cracked Rind Brick Wall");
+		addBlock(MSBlocks.CHISELED_RIND_BRICK_WALL, "Chiseled Rind Brick Wall");
+		addBlock(MSBlocks.RIND_BRICK_WALL, "Rind Brick Wall");
+		addBlock(MSBlocks.RIND_WALL, "Rind Wall");
 		addBlock(MSBlocks.TRAJECTORY_BLOCK, "Trajectory Block");
 		addBlockTooltip(MSBlocks.TRAJECTORY_BLOCK, "Propels entities in the direction it faces, with an incoming redstone strength modifier.");
 		addBlock(MSBlocks.STAT_STORER, "Stat Storer");

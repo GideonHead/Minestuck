@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minestuck:block/rind_bricks",
+    "side": "minestuck:block/rind_bricks",
+    "top": "minestuck:block/rind_bricks"
+  }
+}

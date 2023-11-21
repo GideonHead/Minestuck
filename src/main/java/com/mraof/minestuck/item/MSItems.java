@@ -905,6 +905,12 @@ public class MSItems
 	public static final RegistryObject<BlockItem> CRACKED_CHHURPI_BRICKS = registerBlockItem(MSBlocks.CRACKED_CHHURPI_BRICKS);
 	public static final RegistryObject<BlockItem> CHEESY_CHHURPI_BRICKS = registerBlockItem(MSBlocks.CHEESY_CHHURPI_BRICKS);
 	public static final RegistryObject<BlockItem> CHHURPI_PILLAR = registerBlockItem(MSBlocks.CHHURPI_PILLAR);
+	public static final RegistryObject<BlockItem> RIND = registerBlockItem(MSBlocks.RIND);
+	public static final RegistryObject<BlockItem> RIND_BRICKS = registerBlockItem(MSBlocks.RIND_BRICKS);
+	public static final RegistryObject<BlockItem> CHISELED_RIND_BRICKS = registerBlockItem(MSBlocks.CHISELED_RIND_BRICKS);
+	public static final RegistryObject<BlockItem> CRACKED_RIND_BRICKS = registerBlockItem(MSBlocks.CRACKED_RIND_BRICKS);
+	public static final RegistryObject<BlockItem> CHEESY_RIND_BRICKS = registerBlockItem(MSBlocks.CHEESY_RIND_BRICKS);
+	public static final RegistryObject<BlockItem> RIND_PILLAR = registerBlockItem(MSBlocks.RIND_PILLAR);
 	
 	
 	
@@ -1102,6 +1108,11 @@ public class MSItems
 	public static final RegistryObject<BlockItem> CHISELED_CHHURPI_BRICK_STAIRS = registerBlockItem(MSBlocks.CHISELED_CHHURPI_BRICK_STAIRS);
 	public static final RegistryObject<BlockItem> CRACKED_CHHURPI_BRICK_STAIRS = registerBlockItem(MSBlocks.CRACKED_CHHURPI_BRICK_STAIRS);
 	public static final RegistryObject<BlockItem> CHEESY_CHHURPI_BRICK_STAIRS = registerBlockItem(MSBlocks.CHEESY_CHHURPI_BRICK_STAIRS);
+	public static final RegistryObject<BlockItem> RIND_STAIRS = registerBlockItem(MSBlocks.RIND_STAIRS);
+	public static final RegistryObject<BlockItem> RIND_BRICK_STAIRS = registerBlockItem(MSBlocks.RIND_BRICK_STAIRS);
+	public static final RegistryObject<BlockItem> CHISELED_RIND_BRICK_STAIRS = registerBlockItem(MSBlocks.CHISELED_RIND_BRICK_STAIRS);
+	public static final RegistryObject<BlockItem> CRACKED_RIND_BRICK_STAIRS = registerBlockItem(MSBlocks.CRACKED_RIND_BRICK_STAIRS);
+	public static final RegistryObject<BlockItem> CHEESY_RIND_BRICK_STAIRS = registerBlockItem(MSBlocks.CHEESY_RIND_BRICK_STAIRS);
 	
 	public static final RegistryObject<BlockItem> STEEP_GREEN_STONE_BRICK_STAIRS_BASE = registerBlockItem(MSBlocks.STEEP_GREEN_STONE_BRICK_STAIRS_BASE);
 	public static final RegistryObject<BlockItem> STEEP_GREEN_STONE_BRICK_STAIRS_TOP = registerBlockItem(MSBlocks.STEEP_GREEN_STONE_BRICK_STAIRS_TOP);
@@ -1142,12 +1153,22 @@ public class MSItems
 	public static final RegistryObject<BlockItem> CHISELED_CHHURPI_BRICK_SLAB = registerBlockItem(MSBlocks.CHISELED_CHHURPI_BRICK_SLAB);
 	public static final RegistryObject<BlockItem> CRACKED_CHHURPI_BRICK_SLAB = registerBlockItem(MSBlocks.CRACKED_CHHURPI_BRICK_SLAB);
 	public static final RegistryObject<BlockItem> CHEESY_CHHURPI_BRICK_SLAB = registerBlockItem(MSBlocks.CHEESY_CHHURPI_BRICK_SLAB);
+	public static final RegistryObject<BlockItem> RIND_SLAB = registerBlockItem(MSBlocks.RIND_SLAB);
+	public static final RegistryObject<BlockItem> RIND_BRICK_SLAB = registerBlockItem(MSBlocks.RIND_BRICK_SLAB);
+	public static final RegistryObject<BlockItem> CHISELED_RIND_BRICK_SLAB = registerBlockItem(MSBlocks.CHISELED_RIND_BRICK_SLAB);
+	public static final RegistryObject<BlockItem> CRACKED_RIND_BRICK_SLAB = registerBlockItem(MSBlocks.CRACKED_RIND_BRICK_SLAB);
+	public static final RegistryObject<BlockItem> CHEESY_RIND_BRICK_SLAB = registerBlockItem(MSBlocks.CHEESY_RIND_BRICK_SLAB);
 	
 	public static final RegistryObject<BlockItem> CHHURPI_WALL = registerBlockItem(MSBlocks.CHHURPI_WALL);
 	public static final RegistryObject<BlockItem> CHHURPI_BRICK_WALL = registerBlockItem(MSBlocks.CHHURPI_BRICK_WALL);
 	public static final RegistryObject<BlockItem> CHISELED_CHHURPI_BRICK_WALL = registerBlockItem(MSBlocks.CHISELED_CHHURPI_BRICK_WALL);
 	public static final RegistryObject<BlockItem> CRACKED_CHHURPI_BRICK_WALL = registerBlockItem(MSBlocks.CRACKED_CHHURPI_BRICK_WALL);
 	public static final RegistryObject<BlockItem> CHEESY_CHHURPI_BRICK_WALL = registerBlockItem(MSBlocks.CHEESY_CHHURPI_BRICK_WALL);
+	public static final RegistryObject<BlockItem> RIND_WALL = registerBlockItem(MSBlocks.RIND_WALL);
+	public static final RegistryObject<BlockItem> RIND_BRICK_WALL = registerBlockItem(MSBlocks.RIND_BRICK_WALL);
+	public static final RegistryObject<BlockItem> CHISELED_RIND_BRICK_WALL = registerBlockItem(MSBlocks.CHISELED_RIND_BRICK_WALL);
+	public static final RegistryObject<BlockItem> CRACKED_RIND_BRICK_WALL = registerBlockItem(MSBlocks.CRACKED_RIND_BRICK_WALL);
+	public static final RegistryObject<BlockItem> CHEESY_RIND_BRICK_WALL = registerBlockItem(MSBlocks.CHEESY_RIND_BRICK_WALL);
 	
 	
 	

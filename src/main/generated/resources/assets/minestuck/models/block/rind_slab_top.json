@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minestuck:block/rind",
+    "side": "minestuck:block/rind",
+    "top": "minestuck:block/rind"
+  }
+}
